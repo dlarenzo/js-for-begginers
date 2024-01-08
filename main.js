@@ -61,7 +61,7 @@ function onSubmit(e) {
 
   //.remove(); - Removes what you need gone
 
-    const ul = document.querySelector('.items');
+    //const ul = document.querySelector('.items');
 
     //ul.remove();
     //ul.lastElementChild.remove();
